@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "AyHpHpnajKA8M3iZvbTE5W8ykCqZfFt/4trL7MbhBPsqCoScV7ahAux4/jdzzgiMa6yV9S2Z3YdvDCWoV9syZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90538\\Desktop\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90538\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0\\microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\microsoft.codeanalysis.csharp.scripting\\4.5.0\\microsoft.codeanalysis.csharp.scripting.4.5.0.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.5.0\\microsoft.codeanalysis.scripting.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
